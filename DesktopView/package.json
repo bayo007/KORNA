@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://bayo007.github.io/KORNA",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

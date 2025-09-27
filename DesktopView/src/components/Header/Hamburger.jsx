@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import styled from 'styled-components'
-import HamburgerModal from './modals/HamburgerModal'
+import HamburgerModal from './modal/HamburgerModal'
 
 const MenuIcon = styled.button`
   background: none;
